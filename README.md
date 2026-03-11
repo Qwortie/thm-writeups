@@ -12,7 +12,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
-| [Data Exfiltration Detection](.) | DNS Tunneling · FTP Exfil · HTTP POST Exfil · ICMP Tunneling | Wireshark · Splunk | Intermediate |
+| [Data Exfiltration Detection](./network-analysis/THM-Data-Exfiltration-Writeup.md) | DNS Tunneling · FTP Exfil · HTTP POST Exfil · ICMP Tunneling | Wireshark · Splunk | Intermediate |
 
 ### 🟡 SIEM & Log Analysis
 
