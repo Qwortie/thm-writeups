@@ -14,6 +14,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 |------|--------------------|-------|------------|
 | [Data Exfiltration Detection](./network-analysis/THM-Data-Exfiltration-Writeup.md) | DNS Tunneling · FTP Exfil · HTTP POST Exfil · ICMP Tunneling | Wireshark · Splunk | Intermediate |
 | [Wireshark: Traffic Analysis](./network-analysis/THM-Wireshark-Traffic-Analysis.md) | Nmap Detection · ARP Poisoning/MITM · ICMP/DNS Tunnelling · FTP/HTTP Analysis · HTTPS Decryption | Wireshark | Intermediate |
+| [MITM Attack Detection](./network-analysis/THM-MITM-Detection-Writeup.md) | ARP Spoofing · DNS Spoofing · SSL Stripping · Credential Capture | Wireshark | Intermediate |
 ### 🟡 SIEM & Log Analysis
 
 | Room | Techniques Covered | Tools | Difficulty |
