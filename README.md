@@ -38,8 +38,8 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 ## 🛠️ Tools & Platforms Referenced
 
-- **SIEM:** Splunk (SPL queries, log correlation, dashboards)
-- **Network Analysis:** Wireshark, tshark
+- **SIEM:** Splunk, Elastic (SPL queries, log correlation, dashboards)
+- **Network Analysis:** Wireshark, tshark, Snort
 - **Endpoint & Malware:** Sysmon, FLARE VM, REMnux
 - **Frameworks:** MITRE ATT&CK, NIST CSF, Incident Response Lifecycle
 - **Scripting:** Python, PowerShell, Bash
