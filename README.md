@@ -32,7 +32,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
-| *Coming soon* | | | |
+| [Windows Logging & Endpoint Forensics](./endpoint-forensics/THM-Windows-logging-Writeup.md) | RDP Brute Force · Account Backdooring · Sysmon Analysis · C2 Detection · PowerShell Forensics | Event Viewer, Sysmon | Easy |
 
 ---
 
