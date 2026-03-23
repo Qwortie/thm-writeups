@@ -34,6 +34,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 |------|--------------------|-------|------------|
 | [Windows Logging & Endpoint Forensics](./endpoint-forensics/THM-Windows-logging-Writeup.md) | RDP Brute Force · Account Backdooring · Sysmon Analysis · C2 Detection · PowerShell Forensics | Event Viewer, Sysmon | Easy |
 | [Windows Threat Detection: Full Attack Lifecycle](./endpoint-forensics/THM-Windows-Threat-Detection-Writeup.md) | Initial Access · Discovery · Collection · C2 · Persistence · Ingress Tool Transfer | Sysmon, Event Viewer | Intermediate |
+| [Linux Logging & Threat Detection](./endpoint-forensics/THM-Linux-Threat-Detection-Writeup.md) | SSH Brute Force · Web Exploitation · Reverse Shells · Privilege Escalation · Cryptominer Analysis · Linux Persistence | auditd, auth.log, Nginx | Intermediate |
 ---
 
 ## 🛠️ Tools & Platforms Referenced
