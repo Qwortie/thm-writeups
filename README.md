@@ -41,7 +41,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 - **SIEM:** Splunk, Elastic (SPL queries, log correlation, dashboards)
 - **Network Analysis:** Wireshark, tshark, Snort
-- **Endpoint & Malware:** Sysmon, FLARE VM, REMnux
+- **Endpoint & Malware:** Sysmon, Auditd, FLARE VM, REMnux
 - **Frameworks:** MITRE ATT&CK, NIST CSF, Incident Response Lifecycle
 - **Scripting:** Python, PowerShell, Bash
 - **Platform:** TryHackMe SOC Analyst Learning Path
