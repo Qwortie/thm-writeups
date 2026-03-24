@@ -26,7 +26,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
-| *Coming soon* | | | |
+| [Living Off the Land (LOLBins) Detection](./threat-hunting/THM-LOL-Detection-Writeup.md) | PowerShell · WMIC · Certutil · Mshta · Rundll32 · Scheduled Tasks · Splunk SPL | Splunk, Sysmon | Intermediate |
 
 ### 🔴 Endpoint Forensics & Malware Analysis
 
