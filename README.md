@@ -22,11 +22,12 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 |------|--------------------|-------|------------|
 | *Coming soon* | | | |
 
-### 🟠 Threat Hunting & Incident Response
+### 🟠 Threat Hunting & Intel
 
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
 | [Living Off the Land (LOLBins) Detection](./threat-hunting/THM-LOL-Detection-Writeup.md) | PowerShell · WMIC · Certutil · Mshta · Rundll32 · Scheduled Tasks · Splunk SPL | Splunk, Sysmon | Intermediate |
+| [File, Hash, IP & Domain Threat Intelligence](./threat-hunting/THM-Threat-Intelligence-File-Hash-Ip-Domain-Writeup.md) | VirusTotal · MalwareBazaar · Hybrid Analysis · RDAP/ASN · Shodan · Censys · Passive DNS · Cisco Talos | VirusTotal, Shodan, CyberChef | Intermediate |
 
 ### 🔴 Endpoint Forensics & Malware Analysis
 
