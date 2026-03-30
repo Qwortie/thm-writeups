@@ -20,7 +20,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
-| *Coming soon* | | | |
+| [SIEM Log Analysis with Splunk](./siem-log-analysis/THM-SIEM-Log-Analysis-Splunk-Writeup.md) | Windows/Linux/Web Log Correlation · Sysmon · Brute Force · Web Shell · Persistence Detection | Splunk SPL | Intermediate |
 
 ### 🟠 Threat Hunting & Intel
 
