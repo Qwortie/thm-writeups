@@ -21,7 +21,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
 | [SIEM Log Analysis with Splunk](./siem-log-analysis/THM-SIEM-Log-Analysis-Splunk-Writeup.md) | Windows/Linux/Web Log Correlation · Sysmon · Brute Force · Web Shell · Persistence Detection | Splunk SPL | Intermediate |
-
+| [SOC Alert Investigations — Splunk & Elastic](./siem-log-analysis/THM-SOC-Alert-Investigations-Splunk-Elastic-Writeup.md) | SSH Brute Force · Windows Persistence · Web Shell · ProxyLogon · Post-Exploitation Chain | Splunk SPL, Kibana/Elastic | Intermediate |
 ### 🟠 Threat Hunting & Intel
 
 | Room | Techniques Covered | Tools | Difficulty |
