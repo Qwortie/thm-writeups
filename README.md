@@ -37,6 +37,12 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 | [Windows Threat Detection: Full Attack Lifecycle](./endpoint-forensics/THM-Windows-Threat-Detection-Writeup.md) | Initial Access · Discovery · Collection · C2 · Persistence · Ingress Tool Transfer | Sysmon, Event Viewer | Intermediate |
 | [Linux Logging & Threat Detection](./endpoint-forensics/THM-Linux-Threat-Detection-Writeup.md) | SSH Brute Force · Web Exploitation · Reverse Shells · Privilege Escalation · Cryptominer Analysis · Linux Persistence | auditd, auth.log, Nginx | Intermediate |
 | [SOC Triage: Malware Analysis & Alert Correlation](./endpoint-forensics/Shadow-Trace-Writeup.md) | PEStudio Static Analysis · IOC Extraction · Base64/Decimal Decoding · EDR Alert Triage | PEStudio, CyberChef | Intermediate |
+
+###  ⚪ Emerging Threats & Specialized Topics 
+
+| Room | Techniques Covered | Tools | Difficulty |
+|------|--------------------|-------|------------|
+| [LLM Security — Attack Surface Overview](./emerging-threats/THM-LLM-Security-Attack-Surface-Writeup.md) | Prompt Injection · Membership Inference · Model Inversion · Memory Poisoning · Trust Exploitation | OWASP LLM Top 10 | Easy |
 ---
 
 ## 🛠️ Tools & Platforms Referenced
