@@ -44,7 +44,9 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 |------|--------------------|-------|------------|
 | [LLM Security — Attack Surface Overview](./emerging-threats/THM-LLM-Security-Attack-Surface-Writeup.md) | Prompt Injection · Membership Inference · Model Inversion · Memory Poisoning · Trust Exploitation | OWASP LLM Top 10 | Easy |
 | [AI Threat Modelling — STRIDE, ATLAS & OWASP LLM Top 10](./emerging-threats/THM-AI-Threat-Modelling-Writeup.md) | STRIDE-AI · MITRE ATLAS · OWASP LLM Top 10 · Data Supply Chain · Component Risk Profiling | MITRE ATLAS, OWASP | Intermediate |
-| [AI Infrastructure Reconnaissance](./emerging-threats/THM-AI-Infrastructure-Reconnaissance-Writeup.md) | AI Port Discovery · Framework Fingerprinting · MLflow Enumeration · Supply Chain Recon · SIEM Detection Signatures | Nmap, curl, grpcurl, Shodan | Intermediate |
+| [AI Infrastructure Reconnaissance](./emerging-threats/THM-AI-Infrastructure-Reconnaissance-Writeup.md) | AI Port Discovery · Framework Fingerprinting · MLflow Enumeration · Supply Chain Recon · SIEM Detection Signatures | Nmap, curl, grpcurl, Shodan | Intermediate | 
+| [Prompt Injection Fundamentals](./emerging-threats/THM-Prompt-Injection-Fundamentals-Writeup.md) | Direct & Indirect Injection · Multi-Turn Attacks · Format-Based Injection · EchoLeak · Real-World Exploits | OWASP LLM Top 10 | Intermediate |
+
 ---
 
 ## 🛠️ Tools & Platforms Referenced
