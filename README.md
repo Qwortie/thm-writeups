@@ -38,7 +38,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 | [Linux Logging & Threat Detection](./endpoint-forensics/THM-Linux-Threat-Detection-Writeup.md) | SSH Brute Force · Web Exploitation · Reverse Shells · Privilege Escalation · Cryptominer Analysis · Linux Persistence | auditd, auth.log, Nginx | Intermediate |
 | [SOC Triage: Malware Analysis & Alert Correlation](./endpoint-forensics/Shadow-Trace-Writeup.md) | PEStudio Static Analysis · IOC Extraction · Base64/Decimal Decoding · EDR Alert Triage | PEStudio, CyberChef | Intermediate |
 
-###  ⚪ Emerging Threats & Specialized Topics 
+###  ⚪ AI - Emerging Threats & Specialized Topics 
 
 | Room | Techniques Covered | Tools | Difficulty |
 |------|--------------------|-------|------------|
@@ -46,6 +46,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 | [AI Threat Modelling — STRIDE, ATLAS & OWASP LLM Top 10](./emerging-threats/THM-AI-Threat-Modelling-Writeup.md) | STRIDE-AI · MITRE ATLAS · OWASP LLM Top 10 · Data Supply Chain · Component Risk Profiling | MITRE ATLAS, OWASP | Intermediate |
 | [AI Infrastructure Reconnaissance](./emerging-threats/THM-AI-Infrastructure-Reconnaissance-Writeup.md) | AI Port Discovery · Framework Fingerprinting · MLflow Enumeration · Supply Chain Recon · SIEM Detection Signatures | Nmap, curl, grpcurl, Shodan | Intermediate | 
 | [Prompt Injection Fundamentals](./emerging-threats/THM-Prompt-Injection-Fundamentals-Writeup.md) | Direct & Indirect Injection · Multi-Turn Attacks · Format-Based Injection · EchoLeak · Real-World Exploits | OWASP LLM Top 10 | Intermediate |
+| [LLM Jailbreaking — Techniques & Psychology](./emerging-threats/THM-LLM-Jailbreaking-Writeup.md ) | Roleplay · Grandma Exploit · Obfuscation · Multi-Turn Conditioning · DAN Phenomenon | OWASP LLM Top 10 | Intermediate |
 
 ---
 
