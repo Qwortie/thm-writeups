@@ -47,7 +47,7 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 | [AI Infrastructure Reconnaissance](./emerging-threats/THM-AI-Infrastructure-Reconnaissance-Writeup.md) | AI Port Discovery · Framework Fingerprinting · MLflow Enumeration · Supply Chain Recon · SIEM Detection Signatures | Nmap, curl, grpcurl, Shodan | Intermediate | 
 | [Prompt Injection Fundamentals](./emerging-threats/THM-Prompt-Injection-Fundamentals-Writeup.md) | Direct & Indirect Injection · Multi-Turn Attacks · Format-Based Injection · EchoLeak · Real-World Exploits | OWASP LLM Top 10 | Intermediate |
 | [LLM Jailbreaking — Techniques & Psychology](./emerging-threats/THM-LLM-Jailbreaking-Writeup.md ) | Roleplay · Grandma Exploit · Obfuscation · Multi-Turn Conditioning · DAN Phenomenon | OWASP LLM Top 10 | Intermediate |
-
+| [AI Supply Chain Attack Vectors](./emerging-threats/THM-AI-Supply-Chain-Attack-Vectors-Writeup.md) | Pickle Analysis · pickletools · Dependency Confusion · Repo Manipulation · Prompt Template Injection | pickletools, pip-audit | Intermediate |
 ---
 
 ## 🛠️ Tools & Platforms Referenced
