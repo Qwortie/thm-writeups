@@ -48,6 +48,8 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 | [Prompt Injection Fundamentals](./emerging-threats/THM-Prompt-Injection-Fundamentals-Writeup.md) | Direct & Indirect Injection · Multi-Turn Attacks · Format-Based Injection · EchoLeak · Real-World Exploits | OWASP LLM Top 10 | Intermediate |
 | [LLM Jailbreaking — Techniques & Psychology](./emerging-threats/THM-LLM-Jailbreaking-Writeup.md ) | Roleplay · Grandma Exploit · Obfuscation · Multi-Turn Conditioning · DAN Phenomenon | OWASP LLM Top 10 | Intermediate |
 | [AI Supply Chain Attack Vectors](./emerging-threats/THM-AI-Supply-Chain-Attack-Vectors-Writeup.md) | Pickle Analysis · pickletools · Dependency Confusion · Repo Manipulation · Prompt Template Injection | pickletools, pip-audit | Intermediate |
+| [Securing the AI Supply Chain](./emerging-threats/THM-Securing-AI-Supply-Chain-Writeup.md) | SafeTensors · Fickling · ModelScan · Keras Lambda Detection · pip-audit · Syft SBOM · API Provider Assessment | Fickling, ModelScan, pip-audit, Syft | Intermediate |
+
 ---
 
 ## 🛠️ Tools & Platforms Referenced
