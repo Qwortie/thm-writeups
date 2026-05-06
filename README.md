@@ -1,8 +1,11 @@
 # 📓 TryHackMe Writeups — Christopher Rice
 
-A growing collection of SOC-focused lab writeups documenting hands-on work across threat detection, network forensics, SIEM analysis, log correlation, and incident response. Each writeup breaks down the attack technique, detection methodology, tools used, and key findings — written from a defender's perspective.
-
-> **Focus areas:** Splunk SPL · Wireshark · Network Traffic Analysis · Endpoint Forensics · MITRE ATT&CK · Incident Response
+Hands-on SOC and security analyst writeups documenting detection, investigation, and threat analysis work across network forensics, endpoint forensics, SIEM analysis, threat intelligence, malware analysis, and AI/ML security. Each writeup covers the attack technique, detection methodology, tools used, and key findings — written from a defender's perspective.
+ 
+I'm a CompTIA Security+ certified analyst actively building toward a SOC analyst role. These writeups are part of the TryHackMe SOC Analyst learning path and serve as a running record of what I've learned and applied hands-on.
+>
+ - 💼 [LinkedIn](https://linkedin.com/in/christopher-rice-soc)
+- 📧 christopher.j.rice@outlook.com
 
 ---
 
@@ -52,18 +55,41 @@ A growing collection of SOC-focused lab writeups documenting hands-on work acros
 
 ---
 
-## 🛠️ Tools & Platforms Referenced
-
-- **SIEM:** Splunk, Elastic (SPL queries, log correlation, dashboards)
-- **Network Analysis:** Wireshark, tshark, Snort
-- **Endpoint & Malware:** Sysmon, Auditd, FLARE VM, REMnux
-- **Frameworks:** MITRE ATT&CK, NIST CSF, Incident Response Lifecycle
-- **Scripting:** Python, PowerShell, Bash
-- **Platform:** TryHackMe SOC Analyst Learning Path
+## 🛠️ Tools & Platforms
+ 
+**Network Analysis**
+`Wireshark` `tshark` `Nmap` `grpcurl` `curl`
+ 
+**SIEM & Log Analysis**
+`Splunk (SPL)` `Kibana / Elastic Stack` `auditd (ausearch)` `Windows Event Viewer`
+ 
+**Endpoint & Host Forensics**
+`Sysmon` `auth.log` `PowerShell history` `Nginx access logs`
+ 
+**Malware & Model Analysis**
+`PEStudio` `CyberChef` `pickletools` `Fickling` `ModelScan` `h5py`
+ 
+**Threat Intelligence**
+`VirusTotal` `MalwareBazaar` `Hybrid Analysis` `Cisco Talos` `Shodan` `Censys` `RDAP` `IP2Proxy` `crt.sh`
+ 
+**Dependency & Supply Chain**
+`pip-audit` `Syft (SBOM)` `pip-compile`
+ 
+**IDS/IPS**
+`Snort 2` `tcpdump`
+ 
+**Scripting & Automation**
+`Python` `PowerShell` `Bash`
+ 
+**Frameworks**
+`MITRE ATT&CK` `MITRE ATLAS` `OWASP LLM Top 10 (2025)` `NIST AI RMF` `Cyber Kill Chain` `NIST CSF`
+ 
+**Platform**
+`TryHackMe SOC Analyst Learning Path`
 
 ---
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/christopher-rice-5030b2108)
+- 💼 [LinkedIn](https://linkedin.com/in/christopher-rice-soc)
 - 📧 christopher.j.rice@outlook.com
